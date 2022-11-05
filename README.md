@@ -1,27 +1,14 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Guangchen(111|nd Liu)|https://guangchen.Liu)" title="👋 Hi there! I'm (Guangchen(111|nd Liu)|https://guangchen.Liu)"/>](https://guangchen.liu/)
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/aguang5241/count.svg" />
-</p>
-
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Guangchen Liu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+<h1>
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> I'm Guangchen Liu <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+</h1>
+<p align="center"> 
+Visitors count<br>
+<img src="https://profile-counter.glitch.me/aguang5241/count.svg" />
+![](https://komarev.com/ghpvc/?username=aguang5241&style=flat-square)
+</p>
 </div>
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
-
+![](https://komarev.com/ghpvc/?username=aguang5241)
 
 
 <div align="center">
