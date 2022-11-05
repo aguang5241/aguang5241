@@ -24,28 +24,28 @@
 
 <p align="center">
    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/qt.svg" alt="qt" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/frameworks/qt.svg" alt="qt" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
+   <img src="./res/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
 </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="./res/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 
