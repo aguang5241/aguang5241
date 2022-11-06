@@ -52,10 +52,9 @@
 </p>
 
 <div class="ocean">
-  <div class="wave"></div>
-  <div class="wave"></div>
-</div>
-      
+   <div class="wave"></div>
+   <div class="wave"></div>
+   
 <style>
 .ocean { 
   height: 5%;
@@ -100,3 +99,4 @@
   }
 }
 </style>
+</div>
