@@ -7,10 +7,16 @@
    </h1>
    
    <h3>
-      👨🏻‍🎓 PhD Student ~ 🖥 Computational Materials Science ~ 🌎 China, USA <br> <br>
-      ✨ <i>Stay awesome!</i> ✨ <br>
-   </h3>
+      👨🏻‍🎓 PhD Student ~ 🖥 Computational Materials Science ~ 🌎 China, USA
+   <h3>
+   
+   <h5>
+      ✨ <i>Stay Hungry, Stay Foolish & Stay Awesome!</i> ✨ <br> <br> <br>
+      <img width="" src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif"> 
+   </h5>
 </div>
+
+<br>
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,7 +24,7 @@
    </a>
 </p>
 
-<img align="left" width="100px" src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif">
+<br>
 
 <p align="center">
    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
