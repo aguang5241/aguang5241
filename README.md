@@ -50,5 +50,3 @@
    Profile Views <br>
    <img src="https://profile-counter.glitch.me/aguang5241/count.svg" />
 </p>
-
-      
