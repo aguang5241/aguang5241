@@ -24,7 +24,7 @@
 
 <img align="left" width="100px" src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif">
 
-<p align="center">
+<p align="right">
    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
    <img src="./res/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
    <img src="./res/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
