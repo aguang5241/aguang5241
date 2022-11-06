@@ -51,6 +51,4 @@
    <img src="https://profile-counter.glitch.me/aguang5241/count.svg" />
 </p>
 
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<style>
-
+<img src="./res/bottom.svg" alt="bottom">
