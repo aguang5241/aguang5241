@@ -56,14 +56,7 @@
   <div class="wave"></div>
 </div>
       
-// best seen at 1500px or less
-
-html, body { height: 100%; }
-body {
-  background:radial-gradient(ellipse at center, rgba(255,254,234,1) 0%, rgba(255,254,234,1) 35%, #B7E8EB 100%);
-  overflow: hidden;
-}
-
+<style>
 .ocean { 
   height: 5%;
   width:100%;
@@ -106,3 +99,4 @@ body {
     transform: translate3d(0,5px,0);
   }
 }
+</style>
