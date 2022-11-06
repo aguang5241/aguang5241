@@ -12,19 +12,15 @@
    </h3>
 </div>
 
-<br>
-
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=aguang5241&&show_icons=true&theme=radical">
    </a>
 </p>
 
-<br>
-
 <img align="left" width="100px" src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif">
 
-<p align="right">
+<p align="center">
    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
    <img src="./res/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
    <img src="./res/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
