@@ -51,4 +51,4 @@
    <img src="https://profile-counter.glitch.me/aguang5241/count.svg" />
 </p>
 
-<img src="./res/bottom.svg" alt="bottom">
+<img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/bottom.svg" alt="bottom">
