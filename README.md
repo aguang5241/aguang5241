@@ -10,15 +10,19 @@
       👨🏻‍🎓 PhD Student ~ 🖥 Computational Materials Science ~ 🌎 China, USA
    <h3>
    
+   <br>
+
    <h5>
-      ✨ <i>Stay Hungry, Stay Foolish & Stay Awesome!</i> ✨ <br> <br> <br>
       <img width="" src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/giphy_1.gif"> 
+      <br>
+      <br>
+      ✨ <i>Stay Hungry, Stay Foolish & Stay Awesome!</i> ✨ 
    </h5>
 </div>
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=aguang5241&&show_icons=true&theme=radical">
    </a>
@@ -27,7 +31,6 @@
 <br>
 
 <p align="center">
-   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
    <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/svg/dev/frameworks/qt.svg" alt="qt" style="vertical-align:top; margin:4px">
@@ -44,9 +47,10 @@
    <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
 </p>
 
-<br>
+<br> -->
 
 <p align="center">
-   Profile Views <br>
-   <img src="https://profile-counter.glitch.me/aguang5241/count.svg" />
+   <img src="https://komarev.com/ghpvc/?username=aguang5241&color=blueviolet&style=flat-square" alt="aguang5241" />
+   <!-- Profile Views  -->
+   <!-- <img src="https://profile-counter.glitch.me/aguang5241/count.svg" /> -->
 </p>
