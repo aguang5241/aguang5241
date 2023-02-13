@@ -9,8 +9,6 @@
    <h3>
       👨🏻‍🎓 PhD Student ~ 🖥 Computational Materials Science ~ 🌎 China, USA
    <h3>
-   
-   <br>
 
    <h5>
       <img width="" src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/giphy_1.gif"> 
