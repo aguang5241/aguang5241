@@ -20,15 +20,15 @@
 
 <br>
 
-<!-- <p align="center">
+<p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=aguang5241&&show_icons=true&theme=radical">
+      <img src="https://github-readme-stats.vercel.app/api?username=aguang5241&&show_icons=true&theme=">
    </a>
 </p>
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/svg/dev/frameworks/qt.svg" alt="qt" style="vertical-align:top; margin:4px">
