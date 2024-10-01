@@ -18,7 +18,7 @@
    </h5>
 </div>
 
-<br>
+<!-- <br>
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,7 +26,7 @@
    </a>
 </p>
 
-<br>
+<br> -->
 
 <!-- <p align="center">
    <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
