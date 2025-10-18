@@ -17,7 +17,7 @@
       ✨ <i>Stay Hungry, Stay Foolish & Stay Awesome!</i> ✨ 
       <br>
       <br>
-      <a href="https://aguang5241w.github.io/my-portfolio/">
+      <a href="https://aguang5241.github.io/my-portfolio/">
          👉 Visit My Homepage 👈
       </a>
    </h5>
