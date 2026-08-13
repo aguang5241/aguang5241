@@ -7,7 +7,7 @@
    </h1>
    
    <h3>
-      👨🏻‍🎓 PhD Candidate ~ 🖥 Computational Materials Science ~ 🌎 China, USA
+      👨🏻‍🎓 PhD ~ 🖥 Computational Materials Science ~ 🌎 China, USA
    <h3>
 
    <h5>
