@@ -20,8 +20,7 @@
       <p align="center">
          <img width="" src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/giphy_1.gif">
       </p>
-      <!-- Set the table font to dark gray -->
-      <table align="center" style="color: #1e1e1e">
+      <table align="center" style="color: #1e1e1e" width="60%" border="0" cellspacing="0" cellpadding="8">
          <tr>
             <td>
                <b>AI for Science Institute (AISI), Beijing, China</b><br>
