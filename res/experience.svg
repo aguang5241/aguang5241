@@ -1,0 +1,110 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .title {
+      font: 700 28px Arial, sans-serif;
+      fill: #24292f;
+    }
+
+    .subtitle {
+      font: 400 21px Arial, sans-serif;
+      fill: #57606a;
+    }
+
+    .date {
+      font: 700 27px Arial, sans-serif;
+      fill: #24292f;
+      text-anchor: end;
+    }
+
+    .line {
+      stroke: #d8dee4;
+      stroke-width: 1.5;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .title,
+      .date {
+        fill: #f0f6fc;
+      }
+
+      .subtitle {
+        fill: #8c959f;
+      }
+
+      .line {
+        stroke: #30363d;
+      }
+    }
+  </style>
+
+
+  <!-- Experience -->
+
+  <text x="40" y="55" class="title">
+    AI for Science Institute (AISI), Beijing, China
+  </text>
+
+  <text x="1160" y="55" class="date">
+    2026 - Present
+  </text>
+
+  <text x="40" y="100" class="subtitle">
+    Researcher · Materials Design &amp; Optimization
+  </text>
+
+
+  <line x1="40" y1="130" x2="1160" y2="130" class="line"/>
+
+
+  <!-- Ph.D. -->
+
+  <text x="40" y="185" class="title">
+    Worcester Polytechnic Institute, USA
+  </text>
+
+  <text x="1160" y="185" class="date">
+    2021 - 2026
+  </text>
+
+  <text x="40" y="230" class="subtitle">
+    Materials Science &amp; Engineering · Ph.D.
+  </text>
+
+
+  <line x1="40" y1="260" x2="1160" y2="260" class="line"/>
+
+
+  <!-- M.S. -->
+
+  <text x="40" y="315" class="title">
+    Central South University, China
+  </text>
+
+  <text x="1160" y="315" class="date">
+    2018 - 2021
+  </text>
+
+  <text x="40" y="360" class="subtitle">
+    Materials Engineering · M.S.
+  </text>
+
+
+  <line x1="40" y1="390" x2="1160" y2="390" class="line"/>
+
+  <!-- B.S. -->
+
+    <text x="40" y="445" class="title">
+        Central South University, China
+    </text>
+
+    <text x="1160" y="445" class="date">
+        2014 - 2018
+    </text>
+
+    <text x="40" y="490" class="subtitle">
+        Powder Materials Science &amp; Engineering · B.S.
+    </text>
+
+</svg>
