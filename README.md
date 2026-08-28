@@ -1,9 +1,9 @@
 <div align="center">
    <h1>
       Hi there 
-      <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/giphy_2.gif" width="50px"> 
+      <img src="res/giphy_2.gif" width="50px"> 
       I'm Guangchen Liu 
-      <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/giphy_3.gif" width="60px">
+      <img src="res/giphy_3.gif" width="60px">
    </h1>
    
    <h3>
@@ -17,7 +17,7 @@
       />
    </p>
    <p align="center">
-      <img width="" src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/giphy_1.gif">
+      <img width="" src="res/giphy_1.gif">
    </p>
    <p align="center">
       <img src="res/experience.svg" width="60%">
