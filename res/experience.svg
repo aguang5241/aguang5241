@@ -8,12 +8,12 @@
     }
 
     .subtitle {
-      font: 400 21px Arial, sans-serif;
+      font: 400 24px Arial, sans-serif;
       fill: #57606a;
     }
 
     .date {
-      font: 700 27px Arial, sans-serif;
+      font: 700 28px Arial, sans-serif;
       fill: #24292f;
       text-anchor: end;
     }
@@ -43,7 +43,7 @@
   <!-- Experience -->
 
   <text x="40" y="55" class="title">
-    AI for Science Institute (AISI), Beijing, China
+    AI for Science Institute (AISI). Beijing, Beijing, China
   </text>
 
   <text x="1160" y="55" class="date">
@@ -61,7 +61,7 @@
   <!-- Ph.D. -->
 
   <text x="40" y="185" class="title">
-    Worcester Polytechnic Institute, USA
+    Worcester Polytechnic Institute, Worcester, USA
   </text>
 
   <text x="1160" y="185" class="date">
@@ -69,7 +69,7 @@
   </text>
 
   <text x="40" y="230" class="subtitle">
-    Materials Science &amp; Engineering · Ph.D.
+    Ph.D. ·  Materials Science &amp; Engineering
   </text>
 
 
@@ -79,7 +79,7 @@
   <!-- M.S. -->
 
   <text x="40" y="315" class="title">
-    Central South University, China
+    Central South University, Changsha, China
   </text>
 
   <text x="1160" y="315" class="date">
@@ -87,7 +87,7 @@
   </text>
 
   <text x="40" y="360" class="subtitle">
-    Materials Engineering · M.S.
+    M.S. ·  Materials Engineering
   </text>
 
 
@@ -96,7 +96,7 @@
   <!-- B.S. -->
 
     <text x="40" y="445" class="title">
-        Central South University, China
+        Central South University, Changsha, China
     </text>
 
     <text x="1160" y="445" class="date">
@@ -104,7 +104,7 @@
     </text>
 
     <text x="40" y="490" class="subtitle">
-        Powder Materials Science &amp; Engineering · B.S.
+        B.S. ·  Powder Materials Science &amp; Engineering
     </text>
 
 </svg>

@@ -12,7 +12,7 @@
 
    <p align="center">
       <img
-         src="https://readme-typing-svg.demolab.com/?lines=Stay+Hungry+,+Stay+Foolish+and+Stay+Awesome!&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000&color=6495ED&vCenter=true&size=14"
+         src="https://readme-typing-svg.demolab.com/?lines=Stay+Hungry+,+Stay+Foolish+and+Stay+Awesome!&font=Fira+Code&center=true&width=500&height=30&duration=4000&pause=1000&color=6495ED&vCenter=true&size=14"
          alt="Stay Hungry, Stay Foolish and Stay Awesome!"
       />
    </p>
