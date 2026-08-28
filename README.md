@@ -7,7 +7,7 @@
    </h1>
    
    <h3>
-      👨🏻‍🎓 PhD ~ 🖥 Computational Materials Science ~ 🌎 China, USA
+      👨🏻‍🎓 &nbsp PhD &nbsp · &nbsp 🖥 &nbsp AI + Computational Materials Science &nbsp · &nbsp 🌎 &nbsp China, USA
    </h3>
 
    <p align="center">
@@ -24,7 +24,7 @@
    </p>
    <p align="center">
       <a href="https://aguang5241.github.io/my-portfolio/">
-         👉 𝑽𝒊𝒔𝒊𝒕 𝑴𝒚 𝑯𝒐𝒎𝒆𝒑𝒂𝒈𝒆 👈
+         👉 &nbsp 𝑽𝒊𝒔𝒊𝒕 𝑴𝒚 𝑯𝒐𝒎𝒆𝒑𝒂𝒈𝒆 &nbsp 👈
       </a>
    </p>
    <p align="center">
