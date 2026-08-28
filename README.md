@@ -21,7 +21,7 @@
          <img width="" src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/giphy_1.gif">
       </p>
       <p align="center">
-         <img src="https://raw.githubusercontent.com/aguang5241/aguang5241/main/res/experience.svg" width="90%">
+         <img src="res/experience.svg" width="50%">
       </p>
       <h4 align="center">
          <a href="https://aguang5241.github.io/my-portfolio/">
@@ -30,7 +30,6 @@
       </h4>
    </div>
 </div>
-
 
 
 <p align="center">
